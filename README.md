@@ -2,8 +2,8 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=GaganpreetKhurana&color=blue alt=ankitgoyal0301/></p>
 
 <p>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GaganpreetKhurana&theme=dracula&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33" alt="My GitHub Stats"/>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaganpreetKhurana&hide=html&show_icons=true&theme=dracula&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_count=10&layout=compact" alt="My GitHub Stats"/>
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=GaganpreetKhurana&theme=dracula&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33" alt="My GitHub Stats"/>
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaganpreetKhurana&hide=html&show_icons=true&theme=dracula&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_count=10&layout=compact" alt="My GitHub Stats"/>
   
 
 </p>
