@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="left">
-   <img src=https://komarev.com/ghpvc/?username=GaganpreetKhurana&color=blue alt="GaganpreetKhurana Views"/>
+   <img src="https://komarev.com/ghpvc/?username=GaganpreetKhurana&color=blue" alt="GaganpreetKhurana Views"/>
 </p>
 
 <p>
