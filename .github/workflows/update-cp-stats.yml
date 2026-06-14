@@ -1,0 +1,37 @@
+name: Update CP Stats
+
+on:
+  # refresh twice a day
+  schedule:
+    - cron: "0 1,13 * * *"
+  # allow manual runs from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh competitive-programming badges
+        run: python .github/scripts/update_cp_stats.py
+
+      - name: Commit changes if any
+        run: |
+          if [[ -n "$(git status --porcelain README.md)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: refresh CP stats badges [skip ci]"
+            git push
+          else
+            echo "No badge changes to commit."
+          fi

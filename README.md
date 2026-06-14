@@ -1,64 +1,125 @@
-## Hi There, I'm Gaganpreet Khurana <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="4%">
-![Gaganpreet Khurana Views](https://komarev.com/ghpvc/?username=GaganpreetKhurana&color=blue)
+<h1 align="center">
+  Hi, I'm Gagan
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px">
+</h1>
 
-# 💫 About Me:
-<h4 align="left">A passionate software developer </h4>
-🌱 I’m currently learning <b>Kotlin, Go, Docker</b><br>💬 Ask me about anything, I'll be happy to help!<br>
+<p align="center">
+  <b>SDE-II @ Amazon</b> &nbsp;·&nbsp; Ex-Intern @ JPMorgan Chase &nbsp;·&nbsp; CSE @ PEC '22
+</p>
+<p align="center">
+  Full-Stack Engineer &nbsp;·&nbsp; 📍 India
+</p>
 
+<p align="center">
+  <a href="https://github.com/GaganpreetKhurana">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3500&pause=1000&center=true&vCenter=true&width=560&lines=SDE-II+%40+Amazon;Full-stack+engineer+%7C+Java+%2B+React+%2B+AWS;Building+with+GenAI+%E2%80%94+LLMs%2C+MCP+%26+agents;Competitive+programmer+%E2%80%94+CodeChef+4%E2%98%85" alt="Typing SVG"/>
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/g-khurana) 
+<p align="center">
+  <a href="https://linkedin.com/in/g-khurana">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/GaganpreetKhurana">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=GaganpreetKhurana&style=for-the-badge&color=blue" alt="Profile views"/>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-<div>
-	<p>
-		<img src="https://github-readme-stats.vercel.app/api?username=GaganpreetKhurana&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Github Stats"/><br/>
-	<p>
-	<p>
-		<img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaganpreetKhurana&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6" /><br/>
-	</p>
-	<p>
-		<img alt="Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=GaganpreetKhurana&theme=dark&hide_border=false"/><br/>
-	</p>
-</div>
-
-
-## 🏆 GitHub Trophies
-<div align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=GaganpreetKhurana&theme=discord&column=-1&no-frame=false&no-bg=false" src="Trophies") />
-</div>
-<!-- ![](https://github-profile-trophy.vercel.app/?username=GaganpreetKhurana&theme=discord&column=-1&no-frame=false&no-bg=false&margin-w=) -->
-
-### ✍️ Random Dev Quote
-<div align="center">
-	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" src="Random dev quote") />
-</div>
-
-### 😂 Random Dev Meme
-<div align="center">
-	<img src="https://memer-github.herokuapp.com/getImage" width="512px" src="Random dev meme") />
-</div>
-
-
-<!-- <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
-<!-- 
 ---
-[![](https://visitcount.itsvg.in/api?id=GaganpreetKhurana&icon=2&color=2)](https://visitcount.itsvg.in) -->
 
+## 💫 About Me
 
-<!--
-**GaganpreetKhurana/GaganpreetKhurana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack software engineer who likes building reliable, large-scale systems — and shipping features end-to-end, from backend services to the UI on top.
 
-Here are some ideas to get you started:
+- 🔭  I work mostly in **Java**, with **TypeScript + AWS CDK** for infrastructure and **Python** for tooling and side projects.
+- 🤖  Hands-on with **Generative AI** — integrating **LLMs** into products and building **MCP servers** &amp; **AI agents**.
+- 🧩  Competitive programmer — **4★ on CodeChef**, and I still grind LeetCode to stay sharp.
+- 🎮  For fun, I build games, web crawlers, and little dev tools (see the repos below).
+- 🌱  Currently exploring **Go** and **Docker**.
+- 💬  Ask me about full-stack development, AWS, GenAI, or competitive programming.
+- ⚡  Fun fact: I sign my handles with **1729** — the Hardy–Ramanujan number — and yes, I'm a bit of a Batman fan. 🦇
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫  Find me on [LinkedIn](https://linkedin.com/in/g-khurana).
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| 💰 [**Financial&nbsp;Assistant**](https://github.com/GaganpreetKhurana/Financial_Assistant) | **DONNA** — a financial assistant that helps you track expenditures, spend smarter, and save more. | `Python` |
+| 🛒 [**E-Commerce**](https://github.com/GaganpreetKhurana/E_Commerce) | A Django web app for exchanging services, backed by SQLite with an HTML/CSS front end. | `Django` `Python` |
+| 🔫 [**WarZone**](https://github.com/GaganpreetKhurana/WarZone) | A multiplayer shooting game built with `pygame` and Python `sockets`. | `Python` |
+| 🕷️ [**WebCrawler**](https://github.com/GaganpreetKhurana/WebCrawler) | A BFS web crawler that reports crawl depth, most-frequent word, and valid external links per page. | `Python` |
+| 🐍 [**Slytherin**](https://github.com/GaganpreetKhurana/Slytherin) | A desktop take on the classic Snake game, built with `pygame`. | `Python` |
+| 👩‍🏫 [**CodeZone**](https://github.com/GaganpreetKhurana/CodeZone) | A full-stack platform for programming classrooms — live code editor, forum, chat, quizzes &amp; assignments. | `React` `Node` `Express` `MongoDB` |
+
+> 📌 More on my [repositories page](https://github.com/GaganpreetKhurana?tab=repositories) — including a CLI 2048, a YouTube downloader, and an Android DiceRoller.
+
+---
+
+## 🧩 Competitive Programming
+
+<p align="center">
+  <a href="https://www.codechef.com/users/darknight_1729">
+    <img src="https://img.shields.io/badge/CodeChef-4★%20(1851)-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef rating"/>
+  </a>
+  <a href="https://leetcode.com/u/Dark_Knight_1729/">
+    <img src="https://img.shields.io/badge/LeetCode-394%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode solved"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,ts,python,aws,react,nodejs,html,css,docker,git&perline=10" alt="Skill icons"/>
+  </a>
+</p>
+
+**Core / Daily Driver**
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-web-services&logoColor=white)
+![AWS CDK (IaC)](https://img.shields.io/badge/AWS_CDK_(IaC)-%23FF9900.svg?style=flat&logo=amazon-web-services&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+
+**Familiar With / Exploring**
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=flat&logo=playwright&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=GaganpreetKhurana&theme=dark&hide_border=false" alt="GitHub Streak"/>
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GaganpreetKhurana/GaganpreetKhurana/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GaganpreetKhurana/GaganpreetKhurana/output/github-snake.svg" />
+  <img alt="snake animation eating my contribution graph" src="https://raw.githubusercontent.com/GaganpreetKhurana/GaganpreetKhurana/output/github-snake.svg" />
+</picture>
+
+<p align="center"><i>Thanks for stopping by — feel free to explore the repos and reach out!</i></p>
